@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# set -e
+set -e
 
 echo "Hi, Good Morning"
 echoooooo "Hello, this will be error"
